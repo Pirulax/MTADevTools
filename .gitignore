@@ -136,7 +136,12 @@ DocProject/Help/Html2
 DocProject/Help/html
 
 # Click-Once directory
-publish/
+#publish/
+
+#Click-Once manifest, and other unusable shits
+*.manifest
+*.application
+*exe.config
 
 # Publish Web Output
 *.[Pp]ublish.xml

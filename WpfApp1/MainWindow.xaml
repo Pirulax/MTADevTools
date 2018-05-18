@@ -14,19 +14,19 @@
         </Grid.ColumnDefinitions>
         <TextBox x:Name="Console" HorizontalAlignment="Left" Height="444" TextWrapping="Wrap" Text="Console" VerticalAlignment="Top" Width="599" Margin="10,45,0,0"/>
         <ComboBox x:Name="cbPaths" HorizontalAlignment="Left" Margin="10,14,0,0" VerticalAlignment="Top" Width="599" Height="22"/>
-        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Margin="14,494,0,0" VerticalAlignment="Top" Width="198" Grid.Column="1" Height="20"/>
-        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="14,469,0,0" VerticalAlignment="Top" Width="198" Grid.Column="1" Height="20"/>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Margin="14,499,0,0" VerticalAlignment="Top" Width="202" Grid.Column="1" Height="20"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="14,474,0,0" VerticalAlignment="Top" Width="202" Grid.Column="1" Height="20"/>
         <GroupBox Header="  Show MsgBox for:&#xA;" HorizontalAlignment="Left" Height="44" VerticalAlignment="Top" Width="202" Grid.Column="1" Margin="14,88,0,0"/>
         <CheckBox x:Name="bcbInclLua" Content="Include Lua" HorizontalAlignment="Left" Margin="14,143,0,0" VerticalAlignment="Top" Grid.Column="1" Height="15" Width="80" IsEnabled="False"/>
         <CheckBox x:Name="bcbLuaFileContainsType" Content="Lua file contains type" HorizontalAlignment="Left" Margin="14,163,0,0" VerticalAlignment="Top" ToolTip="Lua files contains their type in the name. (S - Server, C - Client, G - Shared)" Grid.Column="1" Height="15" Width="132" IsEnabled="False"/>
-        <TextBox x:Name="tbPathPerfix" Grid.Column="1" HorizontalAlignment="Left" Height="18" Margin="13,70,0,0" Text="files\" TextWrapping="Wrap" VerticalAlignment="Top" Width="202" ToolTip="Enter the perfix of the files. For ex.: 'files\'. It must contain the slash('\') at the end."/>
+        <TextBox x:Name="tbPathPerfix" Grid.Column="1" HorizontalAlignment="Left" Height="18" Margin="14,70,0,0" Text="files\" TextWrapping="Wrap" VerticalAlignment="Top" Width="201" ToolTip="Enter the perfix of the files. For ex.: 'files\'. It must contain the slash('\') at the end."/>
         <Button x:Name="btnOpenSettings" Content="Open Settings" HorizontalAlignment="Left" Margin="14,45,0,0" VerticalAlignment="Top" Width="202" Grid.Column="1" Height="20" IsEnabled="False"/>
         <Button x:Name="btnBrowseFolders" Content="Browse Folders" HorizontalAlignment="Left" Margin="14,14,0,0" VerticalAlignment="Top" Width="202" Grid.Column="1" Height="22"/>
         <CheckBox x:Name="bcbShowMsgBoxForWarning" Content="Warning" Grid.Column="1" HorizontalAlignment="Left" Margin="75,111,0,0" VerticalAlignment="Top" IsChecked="True" Height="15" Width="65"/>
         <CheckBox x:Name="bcbShowMsgBoxForError" Content="Error" Grid.Column="1" HorizontalAlignment="Left" Margin="24,111,0,0" VerticalAlignment="Top" IsChecked="True" Height="15" Width="46"/>
         <CheckBox x:Name="bcbShowMsgBoxForInfo" Content="Info" Grid.Column="1" HorizontalAlignment="Left" Margin="157,111,0,0" VerticalAlignment="Top" IsChecked="True" Height="15" Width="41"/>
         <Button x:Name="btnSavePendingMeta" Content="Save meta.xml" HorizontalAlignment="Left" Margin="13,426,0,0" VerticalAlignment="Top" Width="199" Grid.Column="1" Height="20"/>
-        <Button x:Name="btnClipboardCopyMeta" Content="Copy meta.xml to clipboard" HorizontalAlignment="Left" Margin="13,401,0,0" VerticalAlignment="Top" Width="199" Grid.Column="1" Height="20"/>
+        <Button x:Name="btnClipboardCopyMeta" Content="Copy meta.xml to clipboard" HorizontalAlignment="Left" Margin="14,401,0,0" VerticalAlignment="Top" Width="198" Grid.Column="1" Height="20"/>
         <TextBox x:Name="tbCommand" HorizontalAlignment="Left" Height="23" Margin="10,496,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="504" ToolTip="Enter a command. Ex.: generatemeta C:\Users\file\ files\ False" />
         <Button x:Name="btnSendCommand" Content="Send" HorizontalAlignment="Left" Margin="519,496,0,0" VerticalAlignment="Top" Width="90" Height="23"/>
         <CheckBox x:Name="bcbShowFileAddingsInConsole" Content="Show file addings in the console" HorizontalAlignment="Left" Margin="14,183,0,0" VerticalAlignment="Top" ToolTip="Lua files contains their type in the name. (S - Server, C - Client, G - Shared)" Grid.Column="1" Height="15" Width="198"/>
