@@ -1,0 +1,24 @@
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Dev Tools.vbprojAssemblyReference.cache
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MainWindow.g.vb
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\Settings.g.vb
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\Application.g.vb
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Developer Tools_MarkupCompile.cache
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Developer Tools_MarkupCompile.lref
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Developer Tools.exe
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Developer Tools.xml
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Developer Tools.pdb
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.exe.config
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.exe.manifest
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.application
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.exe
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.pdb
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.xml
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MainWindow.baml
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\Settings.baml
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Developer Tools.g.resources
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA_Developer_Tools.Resources.resources
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Dev Tools.vbproj.GenerateResource.cache
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Dev Tools.vbproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Developer Tools.exe.manifest
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Developer Tools.application
+C:\Users\patri\source\repos\MTA Dev Tools\MTA Dev Tools\obj\Debug\MTA Dev Tools.vbproj.CopyComplete

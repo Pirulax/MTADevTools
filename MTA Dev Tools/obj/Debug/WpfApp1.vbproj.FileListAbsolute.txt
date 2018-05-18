@@ -1,0 +1,31 @@
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.vbprojAssemblyReference.cache
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.vb
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\Application.g.vb
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.vbproj.GenerateResource.cache
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.vbproj.CoreCompileInputs.cache
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\Settings.g.vb
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\Settings.baml
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\bin\Debug\WPFFolderBrowser.dll
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.vbproj.CopyComplete
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\bin\Debug\MTA Developer Tools.exe.config
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\bin\Debug\MTA Developer Tools.exe.manifest
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\bin\Debug\MTA Developer Tools.application
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\bin\Debug\MTA Developer Tools.exe
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\bin\Debug\MTA Developer Tools.pdb
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\bin\Debug\MTA Developer Tools.xml
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA Developer Tools_MarkupCompile.cache
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA Developer Tools_MarkupCompile.lref
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA Developer Tools.g.resources
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA_Developer_Tools.Resources.resources
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA Developer Tools.exe.manifest
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA Developer Tools.application
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA Developer Tools.exe
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA Developer Tools.xml
+C:\Users\patri\source\repos\WpfApp1\WpfApp1\obj\Debug\MTA Developer Tools.pdb
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.exe.config
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.exe.manifest
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.application
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.exe
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.pdb
+C:\Users\patri\Desktop\No admin Debug Folder For VS2017\MTA Dev Tools\MTA Developer Tools.xml
